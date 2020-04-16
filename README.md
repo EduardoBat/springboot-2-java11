@@ -1,4 +1,4 @@
- ##Web services with Spring Boot e JPA / Hibernate </br>
+<h1>Web services with Spring Boot e JPA / Hibernate </h1>
 
 
 #Purpose
@@ -24,7 +24,7 @@
 ## Structure
 
 
-(https://github.com//EduardoBat/springboot-2-java11/blob/master/fig.PNG)<br/>
+(https://github.com//EduardoBat/springboot-2-java11/blob/master/fig.PNG)
 
 
 
