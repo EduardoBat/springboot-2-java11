@@ -49,6 +49,8 @@ public class User implements Serializable {
 		this.phone = phone;
 		this.password = password;
 	}
+	
+	
 
 	public Long getId() {
 		return id;
@@ -72,6 +74,21 @@ public class User implements Serializable {
 	
 	public List<Order> getOrders() {
 		return orders;
+	}
+	
+	
+	
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	public void setPhone(String phone) {
+		this.phone = phone;
 	}
 
 	@Override
